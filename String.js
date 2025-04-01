@@ -12,3 +12,6 @@ console.log("4. En minúsculas:", cadena.toLowerCase());
 
 // 5. Muestra por consola la posición de la cadena en la que se encuentra la letra 'o'.
 console.log("5. Posición de 'o':", cadena.indexOf('o'));
+
+// 6. Muestra por consola la posición de la cadena en la que se encuentra la cadena "Hola".
+console.log("6. Posición de 'Hola':", cadena.indexOf("Hola"));
