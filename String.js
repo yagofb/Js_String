@@ -28,3 +28,5 @@ console.log("9. Empieza por 'h':", cadena.startsWith("h"));
 // 10. Comprueba si la cadena empieza por "H".
 console.log("10. Empieza por 'H':", cadena.startsWith("H"));
 
+// 11. Muestra utilizando TEMPLATE STRINGS la letra "r" declarada 10 veces.
+console.log(`11. ${"r".repeat(10)}`);
