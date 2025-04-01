@@ -15,3 +15,6 @@ console.log("5. Posición de 'o':", cadena.indexOf('o'));
 
 // 6. Muestra por consola la posición de la cadena en la que se encuentra la cadena "Hola".
 console.log("6. Posición de 'Hola':", cadena.indexOf("Hola"));
+
+// 7. Reemplaza la cadena "Mundo" por la cadena "Youtube" y muestra el resultado.
+console.log("7. Reemplazo de 'Mundo' por 'Youtube':", cadena.replace("Mundo", "Youtube"));
