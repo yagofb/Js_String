@@ -18,3 +18,6 @@ console.log("6. Posición de 'Hola':", cadena.indexOf("Hola"));
 
 // 7. Reemplaza la cadena "Mundo" por la cadena "Youtube" y muestra el resultado.
 console.log("7. Reemplazo de 'Mundo' por 'Youtube':", cadena.replace("Mundo", "Youtube"));
+
+// 8. Extrae la segunda parte de la cadena y muéstrala por consola.
+console.log("8. Segunda parte de la cadena:", cadena.split(" ")[1]);
