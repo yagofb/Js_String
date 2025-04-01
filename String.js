@@ -21,3 +21,8 @@ console.log("7. Reemplazo de 'Mundo' por 'Youtube':", cadena.replace("Mundo", "Y
 
 // 8. Extrae la segunda parte de la cadena y muéstrala por consola.
 console.log("8. Segunda parte de la cadena:", cadena.split(" ")[1]);
+
+// 9. Comprueba si la cadena empieza por "h".
+console.log("9. Empieza por 'h':", cadena.startsWith("h"));
+
+
