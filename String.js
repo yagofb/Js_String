@@ -30,3 +30,9 @@ console.log("10. Empieza por 'H':", cadena.startsWith("H"));
 
 // 11. Muestra utilizando TEMPLATE STRINGS la letra "r" declarada 10 veces.
 console.log(`11. ${"r".repeat(10)}`);
+
+// 12. Declara 3 variables con tu nombre, apellidos y edad y muéstralas por consola introduciéndolas dentro de una cadena.
+let nombre = "Yago";
+let apellidos = "Fernández Blandón";
+let edad = 23;
+console.log(`12. Nombre: ${nombre}, Apellidos: ${apellidos}, Edad: ${edad} años.`);
